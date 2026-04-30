@@ -40,6 +40,13 @@ This part focuses on small game experiments and gameplay prototypes.
 
 - [godot-little-games](https://github.com/WSQS/godot-little-games): A collection of small game experiments and prototypes built with Godot.
 
+## Binary Build Automation
+
+This part focuses on building and packaging native binaries with GitHub Actions workflows.
+
+- [protobuf-prebuild](https://github.com/WSQS/protobuf-prebuild): GitHub Actions workflows for building and publishing prebuilt protobuf binaries.
+- [libzmq](https://github.com/WSQS/libzmq): GitHub Actions workflows for compiling libzmq binaries.
+
 ![WSQS's GitHub stats](https://github-readme-stats-ashen-xi-17.vercel.app/api?username=WSQS&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-ashen-xi-17.vercel.app/api/top-langs/?username=WSQS&layout=compact)
