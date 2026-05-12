@@ -38,7 +38,7 @@ This part focuses on rendering experiments and graphics infrastructure.
 
 This part focuses on small game experiments and gameplay prototypes.
 
-- [godot-little-games](https://github.com/WSQS/godot-little-games): A collection of small game experiments and prototypes built with Godot.
+- [godot-little-games](https://github.com/WSQS/godot-little-games): A collection of small game experiments and prototypes built with Godot. It's now available in [github pages](https://wsqs.github.io/godot-little-games/).
 
 ## Binary Build Automation
 
